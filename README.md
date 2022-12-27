@@ -1,4 +1,4 @@
-# Operation-Analysis-Dashboard
+# Operation-Analysis
 This is operation dashboard for customer analysis and yearly revenue generation monitoring for a small E-commerce website.
 
 link:-https://public.tableau.com/views/Project_1_16721239503030/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
